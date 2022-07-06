@@ -1,0 +1,41 @@
+Income Statement: Most people refers to PNL >>> Profit & Loss 
+If you want to summarize this PNL: Sales(Revenue)-Costs(Expenses)=Profit  
+Total Revenue which is refers to Sales. Many CEO will also call this line their TOP LINE because
+it's the top line with PNL. The bottom line is NET INCOME which is also referred to as PROFIT. 
+As you look at net income, of course you would like to be higher, and there are really two levers to do that. 
+One is to increase the company's Total Revenue and other options would be to DECREASE the company's COST
+ 
+
+### 
+I'd now like to show you what I would do if I only had a minute to analyze it.
+Here are the things that I would do.
+First, I would look at the company's total revenue and see how it was growing year over year.
+
+Revenue Growth : Year Over Year >> Formula (Period Revenue/Prior Period Revenue - 1) * 100 
+year 2012 Revenue = 8300 
+year 2011 Revenue = 7200 
+(8300/7200-1)*100 = 15% 
+
+Net Income Growth: Year Over Year >>> Formula(Period Net Income/Prior Period Net Income - 1)*100 
+year 2012 Net Income = 1087 
+year 2011 Net Income = 851 
+(1087/851-1)*100 = 28%  
+
+Net Profit Margin: Formula(Net Income/Total Revenue)*100 
+Year 2012 Net Income=1087 
+year 2012 Total Revenue= 8300 
+(1087/8300)*100 = 13% 
+
+Start Up Company : More focused on growing sales than bottom line profit. Build customer base 
+Mature Company : Ideally profits grow faster than sales. Great management team able to grow the company 
+> Economies of scale 
+> Increasing efficiencies 
+> Increasing profits  
+
+Expense Line 
+1) Cost of Goods Sold: > Raw materials, Direct Labor, Variable Costs 
+2) Operating Expenses(Fixed Costs): > Research development, sales & marketing, general & administrative(focus attention),
+   depreciation and amortization= Sum all > Operating Expense.  
+3) Operating Income : CEO will call is EBIT which stands 
+   (Earnings Before Interest & Tax). Interest Income, Interest Expense, Income before provision for income taxes 
+   Provision for income taxes. 
