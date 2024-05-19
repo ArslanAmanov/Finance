@@ -50,14 +50,14 @@ It's a very enormous benefit, a gain we call it and you can see it in everyday l
 
 Gains from Trade:
 Producer Decisions: 
-a)Specialization
-b)Division of Labor
-c)Comparative Advantage 
+a)Specialization ( a concentration of production efforts on a single specific task )
+b)Division of Labor (the division of production into various parts in which different groups of worker specialize)
+c)Comparative Advantage (a situation in which person or group can produce one good at a lower opportunity cost than another person or group)
 
-Economic Decisions and The Role of Government:
-a) Predictable policy framework
-b) Rule of Law(property rights)
+Economic Decisions and The Role of Government 5 main components:
+a) Predictable policy framework( the government needs to be predictable in its decisions )
+b) Rule of Law(property rights need to be clearly defined and enforced)
 c) Reliance on market economy (Freely determined prices) 
-d) Good Incentives 
-e) Specific Role of Government( market failures, public goods, externalities, goverment failure too) 
- 
+d) Good Incentives (government needs to provide good incentives for economic activity, such as patents to encourage innovation)
+e) Specific Role of Government( market failures, public goods, externalities, goverment failure too)  
+
