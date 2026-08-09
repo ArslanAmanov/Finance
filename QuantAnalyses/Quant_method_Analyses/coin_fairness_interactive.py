@@ -7,7 +7,7 @@ def exact_binomial_test_two_sided(heads: int, n: int, p0: float = 0.5) -> float:
     if not (0 <= heads <= n):
         raise ValueError("heads must be between 0 and n.")
     probs = [math.comb(n, k) * (p0 ** k) * ((1 - p0) ** (n - k))
-             for k in range(n + 1)]
+            for k in range(n + 1)]
     p_obs = probs[heads]
     p_value = sum(p for p in probs if p <= p_obs + 1e-15)
     return min(1.0, p_value)
