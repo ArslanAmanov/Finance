@@ -353,7 +353,6 @@ gender
 age
 education
 employment
-marital status  
 
 
 2. Financial inclusion:
@@ -435,3 +434,18 @@ urban/rural
           │                       │
      2021 vs 2024           Gender / Income /
      comparison             Education effects
+
+
+
+
+df1_thailand ──┐
+               ├──> df_thailand ──> full/master dataset
+df2_thailand ──┘
+                       │
+                       ├──> df_demographic
+                       │
+                       ├──> df_financial_inclusion
+                       │
+                       ├──> df_digital_finance
+                       │
+                       └──> df_financial_resilience     
