@@ -332,6 +332,70 @@ That would be a **very solid statistics + econometrics + machine-learning projec
 rather than just an exploratory World Bank analysis.
 ___________________________________________________________________________________________________________
 
+                Thailand
+                   │
+          ┌────────┴────────┐
+          │                 │
+        2021              2024
+       1,017              1,000
+    observations       observations
+          │                 │
+          └────────┬────────┘
+                   │
+             df_thailand
+              2,017 rows
 
 
 
+Common Variables: 
+1. Demographic variables: 
+gender
+age
+education
+employment
+marital status  
+
+
+2. Financial inclusion:
+financial account
+bank account
+saving
+borrowing
+formal financial institutions 
+
+3. Digital access:
+mobile phone ownership
+internet access
+internet use
+digital payments 
+
+4. Financial resilience:
+emergency funds
+ability to raise money
+financial stress
+saving
+borrowing
+
+5. Socioeconomic characteristics:
+income
+employment
+education
+urban/rural 
+
+
+
+
+| Research Dimension       | Findex Variable   | Role              |
+| ------------------------ | ----------------- | ----------------- |
+| Gender                   | `female`          | Predictor         |
+| Age                      | `age`             | Predictor         |
+| Education                | `educ`            | Predictor         |
+| Income                   | `inc_q`           | Predictor         |
+| Employment               | `emp_in`          | Predictor         |
+| Financial account        | `account_fin`     | Outcome/component |
+| Mobile account           | `account_mob`     | Component         |
+| Saving                   | `saved`           | Component         |
+| Borrowing                | `borrowed`        | Component         |
+| Digital payment          | `anydigpayment`   | Main outcome      |
+| Merchant digital payment | `merchantpay_dig` | Digital dimension |
+| Year                     | `year`            | Time comparison   |
