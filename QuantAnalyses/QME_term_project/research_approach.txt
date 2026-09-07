@@ -399,3 +399,39 @@ urban/rural
 | Digital payment          | `anydigpayment`   | Main outcome      |
 | Merchant digital payment | `merchantpay_dig` | Digital dimension |
 | Year                     | `year`            | Time comparison   |
+
+
+
+
+
+                 GLOBAL FINDEX
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+        2021                    2024
+       n = 1,017               n = 1,000
+          │                       │
+          └───────────┬───────────┘
+                      │
+                THAILAND DATA
+                      │
+        ┌─────────────┼──────────────┐
+        │             │              │
+   DEMOGRAPHIC    FINANCIAL       DIGITAL
+   VARIABLES      INCLUSION       FINANCE
+        │             │              │
+   Gender         Account        Digital
+   Age            Saving         Payment
+   Education      Borrowing      Merchant Pay
+   Income
+   Workforce
+        │             │              │
+        └─────────────┼──────────────┘
+                      │
+                 STATISTICAL
+                    MODEL
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+     2021 vs 2024           Gender / Income /
+     comparison             Education effects
