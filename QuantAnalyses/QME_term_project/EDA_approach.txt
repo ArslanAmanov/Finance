@@ -1,0 +1,57 @@
+Demographics
+├── age
+├── female
+├── education_level
+├── income_quintile
+└── employment_status
+
+Geography
+├── country
+├── country_code
+└── world_bank_region
+
+Financial Inclusion
+├── account_ownership
+├── financial_institution_account
+├── mobile_money_account
+├── debit_card_ownership
+└── credit_card_ownership
+
+Digital Financial Services
+├── any_digital_payment
+├── digital_merchant_payment
+├── mobile_money_transaction
+├── utility_payment_mobile
+├── wages_mobile
+└── agricultural_payment_mobile
+
+Saving
+├── saved_money
+├── saved_bank
+└── saved_mobile_money
+
+Borrowing
+├── borrowed_money
+├── borrowed_from_formal_bank
+├── borrowed_from_family_friends
+└── borrowed_from_savings_club
+
+Income / Transfers
+├── received_wages
+├── wages_bank_account
+├── wages_mobile
+├── wages_card
+├── received_transfers
+├── received_government_transfer
+└── received_agricultural_payment
+
+Financial Barriers
+├── no_account_distance
+├── no_account_too_expensive
+├── no_account_documentation
+├── no_account_insufficient_funds
+├── no_account_lack_of_trust
+└── no_account_family_member
+
+Financial Resilience
+└── emergency_funds_access
