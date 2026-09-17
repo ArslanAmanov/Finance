@@ -55,3 +55,23 @@ Financial Barriers
 
 Financial Resilience
 └── emergency_funds_access
+
+
+
+                    Demographic characteristics
+                 ┌────────┬────────┬──────────┐
+                 ↓        ↓        ↓          ↓
+              Gender     Age   Education    Income
+                 │
+                 ↓
+       ┌───────────────────────────┐
+       │                           │
+       ↓                           ↓
+Financial inclusion          Financial health
+       │                           │
+       ├─ Account ownership        └─ Main financial concern
+       ├─ Financial institution
+       ├─ Digital payments
+       ├─ Account usage
+       ├─ Saving
+       └─ Borrowing
