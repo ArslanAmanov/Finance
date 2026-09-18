@@ -448,4 +448,13 @@ df2_thailand ──┘
                        │
                        ├──> df_digital_finance
                        │
-                       └──> df_financial_resilience     
+                       └──> df_financial_resilience    
+
+
+Financial inclusion
+       ↓
+Access → Ownership → Usage
+                     ↓
+             Saving / Borrowing
+                     ↓
+             Financial health 
