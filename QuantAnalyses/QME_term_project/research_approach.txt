@@ -457,4 +457,59 @@ Access → Ownership → Usage
                      ↓
              Saving / Borrowing
                      ↓
-             Financial health 
+             Financial health
+
+
+Complete Statistical Framework 
+RQ3
+│
+├── 1. DATA QUALITY
+│     ├── Missing values
+│     ├── Invalid values
+│     ├── Duplicates
+│     └── Survey year consistency
+│
+├── 2. DESCRIPTIVE STATISTICS
+│     ├── Gender
+│     ├── Age
+│     ├── Education
+│     ├── Income
+│     └── Employment
+│
+├── 3. FINANCIAL INCLUSION
+│     ├── Access
+│     ├── Usage
+│     ├── Saving
+│     └── Borrowing
+│
+├── 4. VISUAL EXPLORATION
+│     ├── Distributions
+│     ├── Gender comparison
+│     ├── 2021 vs 2024
+│     ├── Gender × Year
+│     ├── Education
+│     ├── Income
+│     └── Correlation
+│
+├── 5. BIVARIATE STATISTICS
+│     ├── T-test
+│     ├── F/Levene test
+│     └── Chi-square
+│
+├── 6. GROUP COMPARISON
+│     ├── One-way ANOVA
+│     ├── Two-way ANOVA
+│     └── Tukey post-hoc
+│
+├── 7. STATISTICAL MODELLING
+│     ├── Logistic regression
+│     ├── Controls
+│     ├── Odds ratios
+│     └── Gender × Year interaction
+│
+└── 8. MACHINE LEARNING
+      ├── Logistic Regression
+      ├── Random Forest
+      ├── ROC-AUC
+      ├── Confusion matrix
+      └── Feature importance 
